@@ -26,9 +26,9 @@ two sources were used:
 
 ## Methods
 
-The R programming language R Core Team (2021) and the following R
-packages were used to perform the analysis: knitr Xie (2021) and
-tidyverse Wickham et al. (2019). The code used to perform the analysis
+The R programming language (R Core Team 2021) and the following R
+packages were used to perform the analysis: knitr (Xie 2021) and
+tidyverse (Wickham et al. 2019). The code used to perform the analysis
 and create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
