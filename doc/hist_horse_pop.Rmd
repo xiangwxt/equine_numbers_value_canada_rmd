@@ -66,7 +66,7 @@ max_horses <- horse_pop %>%
 knitr::kable(max_horses, caption = "Table 1. Range of the number of horses for each provinces at any time point between 1940 - 1972")
 ```
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of `r max_horses$Province[1]`:
 
 ```{r plot province, fig.width=5, fig.height=4, fig.cap = "Figure 2. Number of horses for province of focus", out.width = "50%"}
 province_plot <- horse_pop %>% 
